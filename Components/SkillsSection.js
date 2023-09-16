@@ -8,7 +8,7 @@ const SkillsSection = () => {
           <h2  >Skills</h2>
           <p>
             Im sharing with you some framworks and tools that i used on my
-            several project as Ui/Ux Designer and Software Development
+            several project as Ui/Ux Designer and Software Engineer
           </p>
         </div>
         
