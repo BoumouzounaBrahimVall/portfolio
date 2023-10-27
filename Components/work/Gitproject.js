@@ -2,6 +2,12 @@ import Slider from "react-slick";
 
 const Gitproject = () => {
   let projects = [
+    {
+      id: 1,
+      link: "https://github.com/BoumouzounaBrahimVall/promptopia",
+      image:
+        "https://gh-card.dev/repos/BoumouzounaBrahimVall/promptopia.svg?fullname=",
+    },//https://github.com/BoumouzounaBrahimVall/promptopia
     
     {
       id: 2,

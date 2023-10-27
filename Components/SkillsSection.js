@@ -47,7 +47,7 @@ const SkillsSection = () => {
                   height={40}
                 />
                 <Image
-                  src="/Icons/skills/logos/logos_angular-icon.svg"
+                  src="/Icons/skills/logos/next-js.svg"
                   alt="Welcoming emojie"
                   width={40}
                   height={42}
